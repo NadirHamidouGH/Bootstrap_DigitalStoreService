@@ -13,6 +13,6 @@ Real Display :
 
 Note : 
 
-the drop down menu doesn't work on the live preview because of javascript restrictions i guess and it works only in local, please switch between pages using desktop view then you can switch to mobile view to see the responsivness, hope that's doesn't desturb you .
+the drop down menu doesn't work on the live preview because of javascript restrictions i guess and it works only in local, please switch between pages using desktop view then you can switch to mobile view to see the responsiveness, hope that's doesn't desturb you .
 
 <img width="214" alt="cap2" src="https://user-images.githubusercontent.com/28190040/68850338-21e96a00-06d4-11ea-9112-9e84f7f56f12.PNG">
