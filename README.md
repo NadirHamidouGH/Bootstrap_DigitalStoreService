@@ -1,5 +1,7 @@
 # Bootstrap_DigitalStoreService
 
+This user interface is created to practice Bootstrap Responsive Design
+
 Real Display : 
 
 <a  href="https://digitalstoreservice.netlify.com/" target="_blank" >  Link Preview 
